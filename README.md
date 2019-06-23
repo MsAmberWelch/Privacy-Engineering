@@ -27,10 +27,27 @@
 
 -Minimizing API personal data: https://www.w3.org/2001/tag/doc/APIMinimization
 
+
+**PRIVACY TECHNOLOGIES**
+
 **Differential Privacy**
 
 -"Privacy-Preserving Data Publishing: A Survey of
 Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
+
+-TensorFlow Privacy GitHub and tutorials: https://github.com/tensorflow/privacy/blob/master/tutorials/walkthrough/walkthrough.md
+
+-RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response: https://ai.google/research/pubs/pub42852
+
+**Federated Learning**
+
+-Federated Learning for Mobile Keyboard Prediction: https://arxiv.org/pdf/1811.03604.pdf
+
+-Comic overview of federated learning: https://federated.withgoogle.com/
+
+-TensorFlow Federated: https://www.tensorflow.org/federated
+
+-PySyft Library: https://github.com/OpenMined/PySyft/
 
 **Homomorphic Encryption**
 
