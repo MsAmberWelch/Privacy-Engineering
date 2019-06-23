@@ -5,6 +5,8 @@
 
 -Paper on developers' lack of privacy education: https://arxiv.org/ftp/arxiv/papers/1805/1805.09485.pdf
 
+-The Privacy Engineer's Manifesto: Getting from Policy to Code to QA to Value by Dennedy, Fox, and Finneran: https://www.amazon.com/Privacy-Engineers-Manifesto-Getting-Policy/dp/1430263555
+
 **OWASP Top Ten for Privacy**
 
 -Main project: https://www.owasp.org/index.php/OWASP_Top_10_Privacy_Risks_Project#tab=Main
@@ -48,6 +50,8 @@ Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
 -TensorFlow Federated: https://www.tensorflow.org/federated
 
 -PySyft Library: https://github.com/OpenMined/PySyft/
+
+-PyTorch + PySyft tutorial: https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/
 
 **Homomorphic Encryption**
 
