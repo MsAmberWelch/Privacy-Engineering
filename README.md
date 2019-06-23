@@ -3,6 +3,8 @@
 
 **PRIVACY BY DESIGN**
 
+-Paper on developers' lack of privacy education: https://arxiv.org/ftp/arxiv/papers/1805/1805.09485.pdf
+
 **OWASP Top Ten for Privacy**
 
 -Main project: https://www.owasp.org/index.php/OWASP_Top_10_Privacy_Risks_Project#tab=Main
@@ -11,5 +13,31 @@
 
 **Privacy Impact Assessment**
 
+-Simple PIA how-to guide: https://www.privacy.org.nz/assets/Files/Guidance/Privacy-Impact-Assessment-Part-2-FA.pdf
+
+-CNIL PIA knowledgebase: https://www.cnil.fr/en/privacy-impact-assessment-pia
+
+-PIA template: https://ico.org.uk/media/1042836/pia-code-of-practice-editable-annexes.docx
+
+-Automated PIA tool: https://iapp.org/resources/apia/
+
+-PIA academic study: https://iapp.org/media/pdf/knowledge_center/Making_PIA__more_effective.pdf
+
+**Data Minimization**
+
+-Minimizing API personal data: https://www.w3.org/2001/tag/doc/APIMinimization
+
+**Differential Privacy**
+
+-"Privacy-Preserving Data Publishing: A Survey of
+Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
+
+**Homomorphic Encryption**
+
+-Google's open source Privacy Join and Compute: https://github.com/google/private-join-and-compute
+
+-Technical paper on the Privacy Join and Compute research: https://eprint.iacr.org/2019/723
+
+-Google blog overview of Privacy Join and Compute: https://security.googleblog.com/2019/06/helping-organizations-do-more-without-collecting-more-data.html
 
 **PRIVACY TECHNOLOGIES**
