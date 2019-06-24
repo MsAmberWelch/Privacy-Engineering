@@ -41,6 +41,12 @@ Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
 
 -RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response: https://ai.google/research/pubs/pub42852
 
+**Privacy Preserving Ad Click Attribution**
+
+-Overview by the developer: https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/
+
+
+
 **Federated Learning**
 
 -Federated Learning for Mobile Keyboard Prediction: https://arxiv.org/pdf/1811.03604.pdf
@@ -52,6 +58,8 @@ Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
 -PySyft Library: https://github.com/OpenMined/PySyft/
 
 -PyTorch + PySyft tutorial: https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/
+
+-Udacity course on federated learning: https://www.udacity.com/course/secure-and-private-ai--ud185
 
 **Homomorphic Encryption**
 
