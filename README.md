@@ -60,6 +60,8 @@ Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
 
 -GitHub repository: https://github.com/WICG/ad-click-attribution
 
+-Brave browser Basic Attention Token: https://basicattentiontoken.org/
+
 **Federated Learning**
 
 -Federated Learning for Mobile Keyboard Prediction: https://arxiv.org/pdf/1811.03604.pdf
