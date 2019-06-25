@@ -69,4 +69,3 @@ Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
 
 -Google blog overview of Privacy Join and Compute: https://security.googleblog.com/2019/06/helping-organizations-do-more-without-collecting-more-data.html
 
-**PRIVACY TECHNOLOGIES**
