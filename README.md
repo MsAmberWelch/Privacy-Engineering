@@ -41,11 +41,11 @@ Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
 
 -RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response: https://ai.google/research/pubs/pub42852
 
+-Harvard Privacy Tools: https://privacytools.seas.harvard.edu/courses-educational-materials
+
 **Privacy Preserving Ad Click Attribution**
 
 -Overview by the developer: https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/
-
-
 
 **Federated Learning**
 
