@@ -29,8 +29,19 @@
 
 -Minimizing API personal data: https://www.w3.org/2001/tag/doc/APIMinimization
 
+**Default Settings**
+
+-Examples of intrusive default settings: https://www.washingtonpost.com/news/the-switch/wp/2018/06/01/hands-off-my-data-15-default-privacy-settings-you-should-change-right-now/?noredirect=on&utm_term=.7fff10dcce21
+
+-Firefox default settings for privacy overview: https://blog.mozilla.org/blog/2019/06/04/when-it-comes-to-privacy-default-settings-matter/
 
 **PRIVACY TECHNOLOGIES**
+
+**Encryption**
+
+-OWASP Guide to Cryptography: https://www.owasp.org/index.php/Guide_to_Cryptography
+
+-FIPS 140-2 Security Requirements for Cryptographic Modules: https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf
 
 **Differential Privacy**
 
@@ -46,6 +57,8 @@ Recent Developments": https://www.cs.sfu.ca/~wangk/pub/FWCY10csur.pdf
 **Privacy Preserving Ad Click Attribution**
 
 -Overview by the developer: https://webkit.org/blog/8943/privacy-preserving-ad-click-attribution-for-the-web/
+
+-GitHub repository: https://github.com/WICG/ad-click-attribution
 
 **Federated Learning**
 
